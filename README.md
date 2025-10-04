@@ -28,9 +28,7 @@ Images: 70,000 grayscale digits (28×28 px)
 - Flatten input → Dense(512) → Dropout → Output(10, softmax)
 
 # 📊 Results and Comparison
-## Model	 Train Accuracy	 TestAccuracy	 Parameters	      Observations
-- MLP	     98.1%	             97.0%	       ~0.7M	     Good baseline,but overfits slightly
-- CNN	     99.5%	             99.1%	       ~1.2M	     Better generalization & spatial awareness
+<img width="962" height="209" alt="image" src="https://github.com/user-attachments/assets/578ff834-4b61-45e6-bf19-5d3b75d7bd91" />
 
 # 📉 Performance Visualization
 ## Training vs Validation Accuracy
