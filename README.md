@@ -67,13 +67,13 @@ pip install -r requirements.txt
 
 ### 🧾 requirements.txt
 Create a file named requirements.txt in your project folder with the following content:
-tensorflow==2.16.1
-numpy==1.26.4
-matplotlib==3.9.0
-seaborn==0.13.2
-scikit-learn==1.5.0
-pandas==2.2.2
-jupyter==1.1.0
+- tensorflow==2.16.1
+- numpy==1.26.4
+- matplotlib==3.9.0
+- seaborn==0.13.2
+- scikit-learn==1.5.0
+- pandas==2.2.2
+- jupyter==1.1.0
 
 ## Run the notebook:
 jupyter notebook Digit_Cave.ipynb
